@@ -1,19 +1,8 @@
 ECE281_Lab1
 ===========
 
-##  Truth Table
-
-A|B|C|X|Y|Z
----|---|---|---|---
-0|0|0|0|0|0
-0|0|1|1|1|1
-0|1|0|1|1|0
-0|1|1|1|0|1
-1|0|0|1|0|0
-1|0|1|0|1|1
-1|1|0|0|1|0
-1|1|1|0|0|1
-
+# Truth Table
+![alt text] (https://github.com/CassieMcPeek/ECE281_Lab1/blob/master/Lab1_Truthtable.JPG "Truthtable")
 
 # Waveform
 ![alt text] (https://github.com/CassieMcPeek/ECE281_Lab1/blob/master/Lab1_screenshot.JPG "Testbench")
