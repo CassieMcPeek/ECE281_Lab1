@@ -7,5 +7,8 @@ ECE281_Lab1
 # Waveform
 ![alt text] (https://raw.github.com/CassieMcPeek/ECE281_Lab1/master/Lab1_screenshot.JPG "Testbench")
 
+# Schematic
+![alt text] (https://raw.github.com/CassieMcPeek/ECE281_Lab1/blob/master/Schematic-Equation.jpg
+
 # Waveform Analysis
 The simulated results in the testbench match the truth table above, so a circuit built from these specifications should work.
